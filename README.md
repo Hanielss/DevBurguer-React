@@ -8,3 +8,4 @@
 <br>
 <p>Utilizando Routes.js para conseguir navegar entre telas na aplicação, html e css para estilização dos cards de realização de pedidos e confirmação dos pedidos</p>
 
+<img src="https://github.com/Hanielss/DevBurguer-React/blob/master/src/assets/card%20new%20order.png?raw=true" height="400px" /> <img src="https://github.com/Hanielss/DevBurguer-React/blob/master/src/assets/card%20orders.png?raw=true" height="400px" />
